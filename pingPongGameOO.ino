@@ -141,7 +141,7 @@ int pingPongGame :: xyTransform (int arg) {
       return 5;
     }
     
-    if (arg <=0) {
+    if (arg <= 0) {
       return 0;
     }
     
