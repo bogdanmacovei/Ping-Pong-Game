@@ -1,4 +1,7 @@
 Joc Ping-Pong Arduino
+Bogdan Macovei
+
+Demo: https://drive.google.com/open?id=1sxdMK1WEqhOf5vkKn3pnC7O5RyKOWWhR
 Elemente principale utilizate
 Pentru realizarea jocului am folosit urmatoarele elemente principale, conectate la placuta Arduino UNO:
 -	matrice LED-uri 8x8;
